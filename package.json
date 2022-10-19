@@ -1,0 +1,23 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "modulo Node Js introduccion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaibarra1/npm.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs"
+  ],
+  "author": "mfgi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariaibarra1/npm/issues"
+  },
+  "homepage": "https://github.com/mariaibarra1/npm#readme"
+}
